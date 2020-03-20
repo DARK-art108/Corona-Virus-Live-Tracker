@@ -14,7 +14,7 @@ Application is available here:
           <tr>
             <td><img src = "app/screenshots/5.png" height = "480" width="270"></td>
             
-        </tr>
+        
 </table>
 
 ## Features
