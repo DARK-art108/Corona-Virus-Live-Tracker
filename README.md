@@ -1,5 +1,6 @@
 # Corona Virus Tracker & Advices Android App with Kotlin
 Application is available here:
+In the release section for beta testing.
 
 ## Screenshots
 <table>
