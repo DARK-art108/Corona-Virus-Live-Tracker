@@ -13,7 +13,7 @@ import org.json.JSONObject
 
 class AdviceActivity : AppCompatActivity() {
     private val mAppUnitId: String by lazy {
-        "ca-app-pub-9111733988327203~1358846107"
+        "ca-app-pub-2366666109746342~8364513244"
     }
     val json by lazy { loadJsonObjectFromAsset("who_corona_advice.json") as JSONObject? }
     val adviceAdapter = AdviceAdapter()

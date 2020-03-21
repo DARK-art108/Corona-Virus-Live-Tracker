@@ -90,7 +90,7 @@
 57-->C:\Users\DARK HUNTERS\Desktop\VIRUS\CoronaVirusTracker\app\src\main\AndroidManifest.xml:38:9-40:70
 58            android:name="com.google.android.gms.ads.APPLICATION_ID"
 58-->C:\Users\DARK HUNTERS\Desktop\VIRUS\CoronaVirusTracker\app\src\main\AndroidManifest.xml:39:13-69
-59            android:value="ca-app-pub-9111733988327203~1358846107" />
+59            android:value="ca-app-pub-2366666109746342~8364513244" />
 59-->C:\Users\DARK HUNTERS\Desktop\VIRUS\CoronaVirusTracker\app\src\main\AndroidManifest.xml:40:13-67
 60        <meta-data
 60-->C:\Users\DARK HUNTERS\Desktop\VIRUS\CoronaVirusTracker\app\src\main\AndroidManifest.xml:41:9-43:55
