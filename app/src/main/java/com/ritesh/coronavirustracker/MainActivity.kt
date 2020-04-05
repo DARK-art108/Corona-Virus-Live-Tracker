@@ -1,17 +1,11 @@
 package com.ritesh.coronavirustracker
 
 import android.os.Bundle
-import android.util.Log
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.ritesh.coronavirustracker.adapter.ViewPagerAdapter
-import com.ritesh.coronavirustracker.network.Client
 import kotlinx.android.synthetic.main.activity_main.*
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.GlobalScope
-import kotlinx.coroutines.launch
-import kotlinx.coroutines.withContext
 
 
 class MainActivity : AppCompatActivity(), BottomNavigationView.OnNavigationItemSelectedListener {
@@ -29,12 +23,6 @@ class MainActivity : AppCompatActivity(), BottomNavigationView.OnNavigationItemS
         title = "Corona Virus Tracker"
 
         bottomNav.setOnNavigationItemSelectedListener(this)
-
-        GlobalScope.launch {
-            val response = withContext(Dispatchers.IO) { Client.api.getCases() }
-            Log.i("Networking", response.body().toString())
-            response.body()
-        }
     }
 
     override fun onNavigationItemSelected(menuItem: MenuItem): Boolean {
