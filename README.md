@@ -5,15 +5,15 @@ In the release section for beta testing.
 ## Screenshots
 <table>
         <tr>
-            <td><img src = "app/screenshots/1.png" height = "480" width="270"></td>
-            <td><img src = "app/screenshots/2.png" height = "480" width="270"></td>
+            <td><img src = "app/Screenshots/1.png" height = "480" width="270"></td>
+            <td><img src = "app/Screenshots/2.png" height = "480" width="270"></td>
         </tr>
         <tr>
-            <td><img src = "app/screenshots/3.png" height = "480" width="270"></td>
-            <td><img src = "app/screenshots/4.png" height = "480" width="270"></td>
+            <td><img src = "app/Screenshots/3.png" height = "480" width="270"></td>
+            <td><img src = "app/Screenshots/4.png" height = "480" width="270"></td>
         </tr>
           <tr>
-            <td><img src = "app/screenshots/5.png" height = "480" width="270"></td>
+            <td><img src = "app/Screenshots/5.png" height = "480" width="270"></td>
             
         
 </table>
