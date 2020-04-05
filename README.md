@@ -7,10 +7,11 @@ In the release section for beta testing.
         <tr>
             <td><img src = "app/Screenshots/1.png" height = "480" width="270"></td>
             <td><img src = "app/Screenshots/2.png" height = "480" width="270"></td>
+            <td><img src = "app/Screenshots/3.png" height = "480" width="270"></td>
         </tr>
         <tr>
-            <td><img src = "app/Screenshots/3.png" height = "480" width="270"></td>
             <td><img src = "app/Screenshots/4.png" height = "480" width="270"></td>
+            <td><img src = "app/Screenshots/5.png" height = "480" width="270"></td>
             <td><img src = "app/Screenshots/5.png" height = "480" width="270"></td>
         </tr>
          
@@ -28,7 +29,8 @@ In the release section for beta testing.
 
 ## Requirements
 - Android Studio 3.6
-- Intall dependencies retrofit.
+- Intall Updated dependencies retrofit and gson convertor.
+
 
 ## Getting Started
 - Clone or download
