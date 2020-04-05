@@ -10,9 +10,9 @@ In the release section for beta testing.
             <td><img src = "app/Screenshots/3.png" height = "480" width="270"></td>
         </tr>
         <tr>
+            <td><img src = "app/Screenshots/5.png" height = "480" width="270"></td>
+            <td><img src = "app/Screenshots/6.png" height = "480" width="270"></td>
             <td><img src = "app/Screenshots/4.png" height = "480" width="270"></td>
-            <td><img src = "app/Screenshots/5.png" height = "480" width="270"></td>
-            <td><img src = "app/Screenshots/5.png" height = "480" width="270"></td>
         </tr>
          
             
